@@ -1,0 +1,368 @@
+/*font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;*/
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Playfair Display', serif;
+	color: #626262;
+
+}
+/*header start*/
+.header{
+padding:15px 0;
+}
+.wrapper{
+width: 90%;
+overflow: hidden;
+margin: 0 auto;
+
+}
+.logo{
+	float: left;
+	width: 13%;
+	margin-top: 8px;
+	
+}
+.logo img{
+width: 100%;
+}
+.menu{
+float: right;
+width: 70%;
+}
+.menu ul{
+float: right;
+}
+.menu li{
+	float: left;
+list-style: none;
+}
+.menu ul li a{
+	color: #626262;
+text-decoration: none;
+display: inline-block;
+padding: 0 50px;
+
+}
+.menu ul li a:hover{
+
+}
+.menu ul li:last-child a{
+padding: 0;
+}
+/*header end*/
+/*banner start*/
+.banner{
+
+}
+.b-bg{
+
+}
+.b-bg img{
+	width: 100%;
+}
+/*banner end*/
+/*text start*/
+.container{
+	width: 82%;
+	margin: auto;
+	padding: 95px 0;
+
+}
+
+  .container h3{
+  font-size: 30px;
+  font-weight: 400;
+  color: #626262;
+  margin-top: 30px;
+}
+.container p{
+  font-size: 14px;
+  font-family:'Ubuntu', sans-serif;
+}
+#ph{
+color:#b4ad9e;
+}
+#lo{
+font-family: 'Playfair Display', serif;
+color: #626262;
+}
+#le{
+color: #b4ad9e;
+margin-top: 50px;
+}
+
+/*text end*/
+/*START LIFESTYLE PART*/
+.container1{
+	width: 82%;
+	margin: auto;
+	padding: 95px 0;
+	color:#626262;
+	font-family:'Playfair Display', serif ;
+}
+.urbn{
+	font-family:'Ubuntu', sans-serif;
+	font-size: 30px;
+	color: #b4ad9e;
+}
+
+.images{
+  overflow: hidden;
+}
+.images-1{
+  width: 45%;
+  float: left;
+  padding-right:10%;
+}
+.images-1 img{
+  width: 100%;
+}
+.images-1 h6{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  padding-top: 20px;
+}
+.images-1 h4{
+  font-size: 30px;
+  font-weight: 400;
+  color: #818181;
+}
+.images-1 p{
+  font-size: 14px;
+font-weight: 400;
+color: #818181;
+padding-bottom: 125px;
+}
+.images-2{
+  width: 45%;
+  float: left;
+  padding-right: ;
+}
+.images-2 img{
+  width: 100%;
+}
+.images-2 h6{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  padding-top: 20px;
+}
+.images-2 h4{
+  font-size: 30px;
+  font-weight: 400;
+  color: #818181;
+}
+.images-2 p{
+  font-size: 14px;
+font-weight: 400;
+color: #818181;
+}.images-3{
+  width: 45%;
+  float: left;
+  padding-right:10% ;
+}
+.images-3 img{
+  width: 100%;
+}
+.images-3 h6{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  padding-top: 20px;
+}
+.images-3 h4{
+  font-size: 30px;
+  font-weight: 400;
+  color: #818181;
+}
+.images-3 p{
+  font-size: 14px;
+font-weight: 400;
+color: #818181;
+}.images-4{
+  width: 45%;
+  float: left;
+  padding-right: ;
+}
+.images-4 img{
+  width: 100%;
+}
+.images-4 h6{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  padding-top: 20px;
+}
+.images-4 h4{
+  font-size: 30px;
+  font-weight: 400;
+  color: #818181;
+}
+.images-4 p{
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  padding-bottom:125px; 
+}
+
+
+/*END LIFESTYLE PART*/
+/*START SIGN UP PART*/
+.signup{
+  background:#f0f0f0;
+  height: 279px;
+}
+.sign-up{
+  width: 40%;
+  margin: auto;
+  
+}
+.sign-up h3{
+  padding-top: 50px;
+  padding-bottom: 40px;
+  font-size: 30px;
+font-weight: 400;
+color: black;
+}
+form input{
+  border: none;
+  background:#f0f0f0;
+  width: 95%;
+}
+form i{
+  float: right;
+}
+.sign-up hr{
+  border: 0.9px solid black;
+}
+.button{
+  text-align: center;
+  margin-bottom:195px ;
+}
+.button button{
+  width:150px;
+  height: 51px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #818181;
+  background-color: white;
+  border: .4px solid black;
+}
+/*END SIGN UP PART*
+/*Footer start*/
+
+.footer{
+
+background-color: #f0f0f0;
+
+
+}
+.container_4{
+
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 25px 0;
+}
+
+.terms{
+
+width: 30%;
+
+float: left;
+
+overflow: hidden;
+
+margin:13px 0;
+}
+
+
+
+
+
+.terms  a{
+	
+	text-decoration: none;
+	padding:0 10px;
+	font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    font-weight: 300;
+    color:#000000;
+    display: inline-block;
+}
+
+.terms  a:hover{
+
+	color: #626262;
+}
+
+
+
+#terms_left{
+
+	padding-left: 0px;
+}
+
+
+
+.social{
+
+width: 24%;
+
+float: right;
+}
+
+.social ul{
+
+float: right;
+
+}
+
+.social ul li{
+
+list-style: none;
+float:left;
+
+
+}
+
+.social ul a {
+
+text-decoration: none;
+padding:0 10px;
+font-family: 'Playfair Display', serif;
+font-size: 16px;
+font-weight: 300;
+color:#626262;
+display: inline-block;
+
+}
+
+.social ul li:last-child a{
+
+	padding-right: 0;
+}
+
+.social ul li:first-child a{
+
+	color: black;
+}
+
+.social ul a:hover {
+
+	color: #484848;
+
+}
+
+.social ul li:first-child a:hover{
+
+	color: #626262;
+}
+
+
+
+
+/*Footer end*/
+
